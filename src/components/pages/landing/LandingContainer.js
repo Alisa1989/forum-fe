@@ -1,10 +1,10 @@
 import React from "react";
-import RendeLandingPage from "./RenderLandingPage.js";
+import RenderLandingPage from "./RenderLandingPage.js";
 
 const LandingContainer = () => {
     return (
         <>
-        <RendeLandingPage />
+        <RenderLandingPage />
         </>
     )
 }
